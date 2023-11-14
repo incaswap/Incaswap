@@ -1,0 +1,8 @@
+### IncaSwap (chainId : 789)
+
+- Factory: 0xea501E6107975640b4fA720e8E14a806758f5905
+- Router: 0x36a5F6e0C1FFCc0e4e779802FFbf7c2aB1dDcD96
+- Init_Code_hash: 0x5c5fbcefaf7bbfbc164c4f08d8c1ec17fd545a3cbed2b47adf401ae8382e5283
+- WETH Address : 0xA625f0Efc6f9cba33233A9c9B2AE36AE716a370e
+- Multicall contract Address : 0x2a4a02f867367c4F1Afffe1Ca64D123963CeF864
+- Token IncaSwap (INCA) :0x8d6935236585f7d3a97FC2f85272e5352967cd57

@@ -9,7 +9,7 @@ Problem: Traditional banks have control over users' money, lacking transparency 
 Solution: IncaSwap provides a decentralized alternative by leveraging blockchain technology. It allows users to swap cryptocurrencies directly on the Patex Blockchain, offering complete control and transparency over their assets.
 Potential Impact:
 IncaSwap empowers users by giving them full authority over their assets and promoting transparency. It eliminates the need for intermediaries and centralized control, offering a more inclusive and accessible platform for exchanging cryptocurrencies. By contributing fees to projects and the protocol's development, incaSwap supports the growth of the Patex ecosystem.
-Additionally, users can earn PatexSwap Tokens by providing liquidity, creating a passive income opportunity.
+Additionally, users can earn IncaSwap  Tokens by providing liquidity, creating a passive income opportunity.
 
 Technical Description
 Forked UniswapV2: IncaSwap will be built on a fork of UniswapV2, a popular decentralized exchange protocol. UniswapV2 provides the foundation for the exchange functionality, including token swapping and liquidity provision.

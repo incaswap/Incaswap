@@ -42,3 +42,4 @@ IncaSwap brings the power of decentralized finance to the Patex Blockchain, prov
 ![Captura de tela 2023-11-10 074838](https://github.com/incaswap/Incaswap/assets/139991653/a0496e2b-7a3f-4d99-8723-fc20aaa120f6)<br><br><br>
 
 
+![f9af02c6-abe3-4f97-8514-7e61de4557fc](https://github.com/incaswap/Incaswap/assets/139991653/1f514a77-5b4c-4011-a193-58196f04e529)
